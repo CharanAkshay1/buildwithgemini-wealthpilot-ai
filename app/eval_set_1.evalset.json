@@ -1,0 +1,116 @@
+{
+  "eval_set_id": "eval_set_1",
+  "name": "eval_set_1",
+  "eval_cases": [
+    {
+      "eval_id": "Hi_show_me_your_tax_knowledge_in_new_regime_for",
+      "conversation": [
+        {
+          "invocation_id": "e-8f03365f-7958-4463-b1f9-87992acb6c31",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Hi show me your tax knowledge in new regime for 30 LPA in india"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "inline_data": {
+                  "data": "PGEyYV9kYXRhcGFydF9qc29uPnsia2luZCI6ICJkYXRhIiwgIm1ldGFkYXRhIjogeyJtaW1lVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uK2EydWkifSwgImRhdGEiOiB7InN1cmZhY2VVcGRhdGUiOiB7InN1cmZhY2VJZCI6ICJ0YXhfZGV0YWlsc18zMGxwYSIsICJjb21wb25lbnRzIjogW3siaWQiOiAicm9vdCIsICJjb21wb25lbnQiOiB7IkNhcmQiOiB7ImNoaWxkIjogIm1haW5fY29sdW1uIn19fSwgeyJpZCI6ICJtYWluX2NvbHVtbiIsICJjb21wb25lbnQiOiB7IkNvbHVtbiI6IHsiY2hpbGRyZW4iOiB7ImV4cGxpY2l0TGlzdCI6IFsidGl0bGVfdGV4dCIsICJpbmNvbWVfdGV4dCIsICJuZXdfcmVnaW1lX2hlYWRpbmciLCAibmV3X3JlZ2ltZV90YXhhYmxlX2luY29tZSIsICJuZXdfcmVnaW1lX3RheF9wYXlhYmxlIiwgIm5ld19yZWdpbWVfdGFrZV9ob21lIiwgInJlY29tbWVuZGVkX3JlZ2ltZSIsICJ0YXhfc2F2aW5ncyJdfX19fSwgeyJpZCI6ICJ0aXRsZV90ZXh0IiwgImNvbXBvbmVudCI6IHsiVGV4dCI6IHsidGV4dCI6IHsibGl0ZXJhbFN0cmluZyI6ICJUYXggTGlhYmlsaXR5IGZvciAzMCBMUEEgKE5ldyBSZWdpbWUpIn0sICJ1c2FnZUhpbnQiOiAiaDMifX19LCB7ImlkIjogImluY29tZV90ZXh0IiwgImNvbXBvbmVudCI6IHsiVGV4dCI6IHsidGV4dCI6IHsibGl0ZXJhbFN0cmluZyI6ICJBbm51YWwgR3Jvc3MgSW5jb21lOiAzLDAwMCwwMDAgSU5SIn0sICJ1c2FnZUhpbnQiOiAiYm9keSJ9fX0sIHsiaWQiOiAibmV3X3JlZ2ltZV9oZWFkaW5nIiwgImNvbXBvbmVudCI6IHsiVGV4dCI6IHsidGV4dCI6IHsibGl0ZXJhbFN0cmluZyI6ICJOZXcgVGF4IFJlZ2ltZSBEZXRhaWxzOiJ9LCAidXNhZ2VIaW50IjogImg0In19fSwgeyJpZCI6ICJuZXdfcmVnaW1lX3RheGFibGVfaW5jb21lIiwgImNvbXBvbmVudCI6IHsiVGV4dCI6IHsidGV4dCI6IHsibGl0ZXJhbFN0cmluZyI6ICJOZXQgVGF4YWJsZSBJbmNvbWU6IDIsOTI1LDAwMCBJTlIifSwgInVzYWdlSGludCI6ICJib2R5In19fSwgeyJpZCI6ICJuZXdfcmVnaW1lX3RheF9wYXlhYmxlIiwgImNvbXBvbmVudCI6IHsiVGV4dCI6IHsidGV4dCI6IHsibGl0ZXJhbFN0cmluZyI6ICJUb3RhbCBUYXggUGF5YWJsZTogNTkwLDIwMCBJTlIifSwgInVzYWdlSGludCI6ICJib2R5In19fSwgeyJpZCI6ICJuZXdfcmVnaW1lX3Rha2VfaG9tZSIsICJjb21wb25lbnQiOiB7IlRleHQiOiB7InRleHQiOiB7ImxpdGVyYWxTdHJpbmciOiAiTmV0IE1vbnRobHkgVGFrZSBIb21lOiAyMDAsODE2LjY3IElOUiJ9LCAidXNhZ2VIaW50IjogImJvZHkifX19LCB7ImlkIjogInJlY29tbWVuZGVkX3JlZ2ltZSIsICJjb21wb25lbnQiOiB7IlRleHQiOiB7InRleHQiOiB7ImxpdGVyYWxTdHJpbmciOiAiUmVjb21tZW5kZWQgUmVnaW1lOiBOZXcgVGF4IFJlZ2ltZSJ9LCAidXNhZ2VIaW50IjogImg0In19fSwgeyJpZCI6ICJ0YXhfc2F2aW5ncyIsICJjb21wb25lbnQiOiB7IlRleHQiOiB7InRleHQiOiB7ImxpdGVyYWxTdHJpbmciOiAiVGF4IFNhdmluZ3Mgd2l0aCBSZWNvbW1lbmRlZCBSZWdpbWU6IDEzNSwyMDAgSU5SIn0sICJ1c2FnZUhpbnQiOiAiYm9keSJ9fX1dfX19PC9hMmFfZGF0YXBhcnRfanNvbj4=",
+                  "mime_type": "text/plain"
+                }
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {
+            "invocation_events": [
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "adk-da4e1340-946f-4f31-9b0e-1cdd8a6bef87",
+                        "args": {
+                          "annual_income": 3000000
+                        },
+                        "name": "calculate_tax_liability"
+                      },
+                      "thought_signature": "AY89a1-mV5wY2OApaKf2EWYp-xTtheQgevDXAotCW3BTds4HWI5iJCr5eIp8Pv4IRq5GFlFVyAaD8kZZq3QQvWvpnsBxGxrmViiL191FG5EmY_6Y-1ODi_z8_L2gQZq97Ye7vrQgmNElpfz7TnxW2ALpQelLczUOAd2TsGBg9CraLrUqzKwKLQgjOZ6h-fosuui5UCbwfB6WW8RriEwQZ7QredfA8POruGtlYO3wvOVfzXykkrJDPcPg9sNin-rQ3Eou13buGvQiasv9wWKhWVEnCnpl2NtOETGihzhBgDalSCl3Gj1Ebovko1DxBSI-E2mllm5IS8b-PLY4zR3bx5dvoCF3Ohxdmz_b7hhugFWL7K9t_SouINeEz0S6rV-w0QLVjuReHAyi4ZcEzRHmowuMjc9vTxEcaYPhpN3-g331F9nSOQa-OSuk-ZKjRwKilRrBFdY2DUsJys7oByPWaLFhBEPiNKAGiDjzQ2s8SXRg7IWkIUGdwrBiZHeAfOyfyzVboNl02E-HRHSw2C4LZpi_sSNjsDATAojfRM58LYeNXeFOOjj6YcZ_gre605UlzXZaHVVTuxnj3tqnUjxIclsHr6Zn1H440vYzj1jQNgH3FilXe3X9zHvvBxHKU0dYdcncOcf_bBBn8eQqyNI8cH-ANN140LjLwxfOV2RaeLhZvaUSl0nyzQAr1nqi_5GPwFcy_rIbMDaB7ZEdxgHIpKhVs_6fMVOkqIcsgiiJYHUe0Qqst3nJH92uAAmg8HJM3T_f7OonPF9YyO1_cudy1UuNh53Zf-SReYp1xDQjtjYxyvUkESGnilX2Aeahrwwq1Ft6j-XXKGKbdnu7OTc3qBBWTtty-S_JSC034HNSly6vjCm0-4IrJ0W_AYUSfwShqmVzsMnrUvtSbQ5MnwhJAd0="
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-da4e1340-946f-4f31-9b0e-1cdd8a6bef87",
+                        "name": "calculate_tax_liability",
+                        "response": {
+                          "result": "{\n  \"annual_gross_income\": 3000000,\n  \"old_regime\": {\n    \"total_deductions_claimed\": 50000.0,\n    \"net_taxable_income\": 2950000.0,\n    \"total_tax_payable\": 725400.0,\n    \"net_monthly_take_home\": 189550.0\n  },\n  \"new_regime\": {\n    \"total_deductions_claimed\": 75000.0,\n    \"net_taxable_income\": 2925000.0,\n    \"total_tax_payable\": 590200.0,\n    \"net_monthly_take_home\": 200816.67\n  },\n  \"recommended_regime\": \"New Tax Regime\",\n  \"tax_savings_with_recommended\": 135200.0\n}"
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              },
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "adk-d69c1a99-eabb-4807-a3dd-d952e3d71a40",
+                        "args": {
+                          "code": "\nimport json\n\ntax_data = json.loads(\"\"\"{\n  \"annual_gross_income\": 3000000,\n  \"old_regime\": {\n    \"total_deductions_claimed\": 50000.0,\n    \"net_taxable_income\": 2950000.0,\n    \"total_tax_payable\": 725400.0,\n    \"net_monthly_take_home\": 189550.0\n  },\n  \"new_regime\": {\n    \"total_deductions_claimed\": 75000.0,\n    \"net_taxable_income\": 2925000.0,\n    \"total_tax_payable\": 590200.0,\n    \"net_monthly_take_home\": 200816.67\n  },\n  \"recommended_regime\": \"New Tax Regime\",\n  \"tax_savings_with_recommended\": 135200.0\n}\"\"\")\n\nprint(f\"Annual Gross Income: {tax_data[\"annual_gross_income\"]}\")\nprint(f\"New Tax Regime - Net Taxable Income: {tax_data[\"new_regime\"][\"net_taxable_income\"]}\")\nprint(f\"New Tax Regime - Total Tax Payable: {tax_data[\"new_regime\"][\"total_tax_payable\"]}\")\nprint(f\"New Tax Regime - Net Monthly Take Home: {tax_data[\"new_regime\"][\"net_monthly_take_home\"]}\")\nprint(f\"Recommended Regime: {tax_data[\"recommended_regime\"]}\")\nprint(f\"Tax Savings with Recommended Regime: {tax_data[\"tax_savings_with_recommended\"]}\")\n"
+                        },
+                        "name": "google_python_interpreter"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-d69c1a99-eabb-4807-a3dd-d952e3d71a40",
+                        "name": "google_python_interpreter",
+                        "response": {
+                          "result": "Annual Gross Income: 3000000\nNew Tax Regime - Net Taxable Income: 2925000.0\nNew Tax Regime - Total Tax Payable: 590200.0\nNew Tax Regime - Net Monthly Take Home: 200816.67\nRecommended Regime: New Tax Regime\nTax Savings with Recommended Regime: 135200.0\n"
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              }
+            ]
+          },
+          "creation_timestamp": 1790612481.2822623
+        }
+      ],
+      "session_input": {
+        "app_name": "app",
+        "user_id": "user",
+        "state": {
+          "6": ""
+        }
+      },
+      "creation_timestamp": 1790612609.3633869
+    }
+  ],
+  "creation_timestamp": 1790612599.0218122
+}
